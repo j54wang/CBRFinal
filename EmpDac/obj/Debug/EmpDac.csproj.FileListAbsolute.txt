@@ -1,0 +1,22 @@
+E:\Develop\CBREmp2\EmpDac\bin\Debug\EmpDac.dll.config
+E:\Develop\CBREmp2\EmpDac\bin\Debug\EmpDac.dll
+E:\Develop\CBREmp2\EmpDac\bin\Debug\EmpDac.pdb
+E:\Develop\CBREmp2\EmpDac\obj\Debug\ResolveAssemblyReference.cache
+E:\Develop\CBREmp2\EmpDac\obj\Debug\EmpDac.dll
+E:\Develop\CBREmp2\EmpDac\obj\Debug\EmpDac.pdb
+E:\Develop\CBREmp2 - Copy (2)\EmpDac\bin\Debug\EmpDac.dll.config
+E:\Develop\CBREmp2 - Copy (2)\EmpDac\bin\Debug\EmpDac.dll
+E:\Develop\CBREmp2 - Copy (2)\EmpDac\bin\Debug\EmpDac.pdb
+E:\Develop\CBREmp2 - Copy (2)\EmpDac\obj\Debug\ResolveAssemblyReference.cache
+E:\Develop\CBREmp2 - Copy (2)\EmpDac\obj\Debug\EmpDac.dll
+E:\Develop\CBREmp2 - Copy (2)\EmpDac\obj\Debug\EmpDac.pdb
+D:\Develop\MGH\CBRFinal\vs08_mvc_Asp\Solution\EmpDac\bin\Debug\EmpDac.dll.config
+D:\Develop\MGH\CBRFinal\vs08_mvc_Asp\Solution\EmpDac\bin\Debug\EmpDac.dll
+D:\Develop\MGH\CBRFinal\vs08_mvc_Asp\Solution\EmpDac\bin\Debug\EmpDac.pdb
+D:\Develop\MGH\CBRFinal\vs08_mvc_Asp\Solution\EmpDac\obj\Debug\EmpDac.dll
+D:\Develop\MGH\CBRFinal\vs08_mvc_Asp\Solution\EmpDac\obj\Debug\EmpDac.pdb
+D:\Develop\MGH\CBRFinal\CBREmp_VS2010_mvc_Asp\Solution\EmpDac\bin\Debug\EmpDac.dll.config
+D:\Develop\MGH\CBRFinal\CBREmp_VS2010_mvc_Asp\Solution\EmpDac\bin\Debug\EmpDac.dll
+D:\Develop\MGH\CBRFinal\CBREmp_VS2010_mvc_Asp\Solution\EmpDac\bin\Debug\EmpDac.pdb
+D:\Develop\MGH\CBRFinal\CBREmp_VS2010_mvc_Asp\Solution\EmpDac\obj\Debug\EmpDac.dll
+D:\Develop\MGH\CBRFinal\CBREmp_VS2010_mvc_Asp\Solution\EmpDac\obj\Debug\EmpDac.pdb

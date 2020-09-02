@@ -1,0 +1,21 @@
+﻿.RedColor
+{
+    color:Red
+}
+
+.MasterpageImageDiv
+{
+    position:relative;
+    width:30%;
+}
+
+.masterbannerSide
+{
+    position:relative;
+    width:35%;
+}
+.pageTable
+{
+    width:90%;
+    background-color:Silver;
+}

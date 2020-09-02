@@ -1,0 +1,27 @@
+E:\Develop\CBREmp2\Mvc2EmpWeb\bin\Mvc2EmpWeb.dll
+E:\Develop\CBREmp2\Mvc2EmpWeb\bin\Mvc2EmpWeb.pdb
+E:\Develop\CBREmp2\Mvc2EmpWeb\bin\EmpDac.dll
+E:\Develop\CBREmp2\Mvc2EmpWeb\bin\EmpLib.dll
+E:\Develop\CBREmp2\Mvc2EmpWeb\bin\System.Web.Abstractions.dll
+E:\Develop\CBREmp2\Mvc2EmpWeb\bin\System.Web.Mvc.dll
+E:\Develop\CBREmp2\Mvc2EmpWeb\bin\System.Web.Routing.dll
+E:\Develop\CBREmp2\Mvc2EmpWeb\bin\EmpLib.pdb
+E:\Develop\CBREmp2\Mvc2EmpWeb\bin\System.Web.Mvc.xml
+E:\Develop\CBREmp2\Mvc2EmpWeb\bin\EmpDac.pdb
+E:\Develop\CBREmp2\Mvc2EmpWeb\obj\Release\ResolveAssemblyReference.cache
+E:\Develop\CBREmp2\Mvc2EmpWeb\obj\Release\Mvc2EmpWeb.g.resources
+E:\Develop\CBREmp2\Mvc2EmpWeb\obj\Release\Mvc2EmpWeb.dll
+E:\Develop\CBREmp2\Mvc2EmpWeb\obj\Release\Mvc2EmpWeb.pdb
+E:\Develop\CBREmp2 - Copy (2)\Mvc2EmpWeb\bin\Mvc2EmpWeb.dll
+E:\Develop\CBREmp2 - Copy (2)\Mvc2EmpWeb\bin\Mvc2EmpWeb.pdb
+E:\Develop\CBREmp2 - Copy (2)\Mvc2EmpWeb\bin\EmpDac.dll
+E:\Develop\CBREmp2 - Copy (2)\Mvc2EmpWeb\bin\EmpLib.dll
+E:\Develop\CBREmp2 - Copy (2)\Mvc2EmpWeb\bin\System.Web.Abstractions.dll
+E:\Develop\CBREmp2 - Copy (2)\Mvc2EmpWeb\bin\System.Web.Mvc.dll
+E:\Develop\CBREmp2 - Copy (2)\Mvc2EmpWeb\bin\System.Web.Routing.dll
+E:\Develop\CBREmp2 - Copy (2)\Mvc2EmpWeb\bin\EmpLib.pdb
+E:\Develop\CBREmp2 - Copy (2)\Mvc2EmpWeb\bin\System.Web.Mvc.xml
+E:\Develop\CBREmp2 - Copy (2)\Mvc2EmpWeb\bin\EmpDac.pdb
+E:\Develop\CBREmp2 - Copy (2)\Mvc2EmpWeb\obj\Release\ResolveAssemblyReference.cache
+E:\Develop\CBREmp2 - Copy (2)\Mvc2EmpWeb\obj\Release\Mvc2EmpWeb.dll
+E:\Develop\CBREmp2 - Copy (2)\Mvc2EmpWeb\obj\Release\Mvc2EmpWeb.pdb

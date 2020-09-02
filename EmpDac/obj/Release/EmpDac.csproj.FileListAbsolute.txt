@@ -1,0 +1,12 @@
+E:\Develop\CBREmp2\EmpDac\bin\Release\EmpDac.dll.config
+E:\Develop\CBREmp2\EmpDac\bin\Release\EmpDac.dll
+E:\Develop\CBREmp2\EmpDac\bin\Release\EmpDac.pdb
+E:\Develop\CBREmp2\EmpDac\obj\Release\ResolveAssemblyReference.cache
+E:\Develop\CBREmp2\EmpDac\obj\Release\EmpDac.dll
+E:\Develop\CBREmp2\EmpDac\obj\Release\EmpDac.pdb
+E:\Develop\CBREmp2 - Copy (2)\EmpDac\bin\Release\EmpDac.dll.config
+E:\Develop\CBREmp2 - Copy (2)\EmpDac\bin\Release\EmpDac.dll
+E:\Develop\CBREmp2 - Copy (2)\EmpDac\bin\Release\EmpDac.pdb
+E:\Develop\CBREmp2 - Copy (2)\EmpDac\obj\Release\ResolveAssemblyReference.cache
+E:\Develop\CBREmp2 - Copy (2)\EmpDac\obj\Release\EmpDac.dll
+E:\Develop\CBREmp2 - Copy (2)\EmpDac\obj\Release\EmpDac.pdb

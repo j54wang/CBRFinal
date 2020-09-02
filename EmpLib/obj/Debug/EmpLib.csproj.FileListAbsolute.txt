@@ -1,0 +1,28 @@
+E:\Develop\CBREmp2\EmpLib\bin\Debug\EmpLib.dll
+E:\Develop\CBREmp2\EmpLib\bin\Debug\EmpLib.pdb
+E:\Develop\CBREmp2\EmpLib\bin\Debug\EmpDac.dll
+E:\Develop\CBREmp2\EmpLib\bin\Debug\EmpDac.pdb
+E:\Develop\CBREmp2\EmpLib\obj\Debug\ResolveAssemblyReference.cache
+E:\Develop\CBREmp2\EmpLib\obj\Debug\EmpLib.dll
+E:\Develop\CBREmp2\EmpLib\obj\Debug\EmpLib.pdb
+E:\Develop\CBREmp2 - Copy (2)\EmpLib\bin\Debug\EmpLib.dll
+E:\Develop\CBREmp2 - Copy (2)\EmpLib\bin\Debug\EmpLib.pdb
+E:\Develop\CBREmp2 - Copy (2)\EmpLib\bin\Debug\EmpDac.dll
+E:\Develop\CBREmp2 - Copy (2)\EmpLib\bin\Debug\EmpDac.pdb
+E:\Develop\CBREmp2 - Copy (2)\EmpLib\obj\Debug\ResolveAssemblyReference.cache
+E:\Develop\CBREmp2 - Copy (2)\EmpLib\obj\Debug\EmpLib.dll
+E:\Develop\CBREmp2 - Copy (2)\EmpLib\obj\Debug\EmpLib.pdb
+D:\Develop\MGH\CBRFinal\vs08_mvc_Asp\Solution\EmpLib\bin\Debug\EmpLib.dll
+D:\Develop\MGH\CBRFinal\vs08_mvc_Asp\Solution\EmpLib\bin\Debug\EmpLib.pdb
+D:\Develop\MGH\CBRFinal\vs08_mvc_Asp\Solution\EmpLib\bin\Debug\EmpDac.dll
+D:\Develop\MGH\CBRFinal\vs08_mvc_Asp\Solution\EmpLib\bin\Debug\EmpDac.pdb
+D:\Develop\MGH\CBRFinal\vs08_mvc_Asp\Solution\EmpLib\obj\Debug\EmpLib.csprojResolveAssemblyReference.cache
+D:\Develop\MGH\CBRFinal\vs08_mvc_Asp\Solution\EmpLib\obj\Debug\EmpLib.dll
+D:\Develop\MGH\CBRFinal\vs08_mvc_Asp\Solution\EmpLib\obj\Debug\EmpLib.pdb
+D:\Develop\MGH\CBRFinal\CBREmp_VS2010_mvc_Asp\Solution\EmpLib\bin\Debug\EmpLib.dll
+D:\Develop\MGH\CBRFinal\CBREmp_VS2010_mvc_Asp\Solution\EmpLib\bin\Debug\EmpLib.pdb
+D:\Develop\MGH\CBRFinal\CBREmp_VS2010_mvc_Asp\Solution\EmpLib\bin\Debug\EmpDac.dll
+D:\Develop\MGH\CBRFinal\CBREmp_VS2010_mvc_Asp\Solution\EmpLib\bin\Debug\EmpDac.pdb
+D:\Develop\MGH\CBRFinal\CBREmp_VS2010_mvc_Asp\Solution\EmpLib\obj\Debug\EmpLib.csprojResolveAssemblyReference.cache
+D:\Develop\MGH\CBRFinal\CBREmp_VS2010_mvc_Asp\Solution\EmpLib\obj\Debug\EmpLib.dll
+D:\Develop\MGH\CBRFinal\CBREmp_VS2010_mvc_Asp\Solution\EmpLib\obj\Debug\EmpLib.pdb

@@ -1,0 +1,14 @@
+E:\Develop\CBREmp2\EmpLib\bin\Release\EmpLib.dll
+E:\Develop\CBREmp2\EmpLib\bin\Release\EmpLib.pdb
+E:\Develop\CBREmp2\EmpLib\bin\Release\EmpDac.dll
+E:\Develop\CBREmp2\EmpLib\bin\Release\EmpDac.pdb
+E:\Develop\CBREmp2\EmpLib\obj\Release\ResolveAssemblyReference.cache
+E:\Develop\CBREmp2\EmpLib\obj\Release\EmpLib.dll
+E:\Develop\CBREmp2\EmpLib\obj\Release\EmpLib.pdb
+E:\Develop\CBREmp2 - Copy (2)\EmpLib\bin\Release\EmpLib.dll
+E:\Develop\CBREmp2 - Copy (2)\EmpLib\bin\Release\EmpLib.pdb
+E:\Develop\CBREmp2 - Copy (2)\EmpLib\bin\Release\EmpDac.dll
+E:\Develop\CBREmp2 - Copy (2)\EmpLib\bin\Release\EmpDac.pdb
+E:\Develop\CBREmp2 - Copy (2)\EmpLib\obj\Release\ResolveAssemblyReference.cache
+E:\Develop\CBREmp2 - Copy (2)\EmpLib\obj\Release\EmpLib.dll
+E:\Develop\CBREmp2 - Copy (2)\EmpLib\obj\Release\EmpLib.pdb
